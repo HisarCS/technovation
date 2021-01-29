@@ -135,9 +135,10 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   h2 {
-    color: #353535;
+    color: #42b034;
     font-size: 2em;
     padding-bottom: 10px;
+    font-family: 'RubikMonoOne-Regular'
   }
 
   h3 {
@@ -175,8 +176,8 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   a:hover, a:active, a:focus {
-    color: #ce3232;
-    outline: none;
+    color: #D0006F;
+    outline: #D0006F;
   }
 
   ::-webkit-scrollbar{
@@ -1092,4 +1093,5 @@ http://www.templatemo.com/tm-515-eatery
       margin-top: 30px;
     }
   }
+
 
