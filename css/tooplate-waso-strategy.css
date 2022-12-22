@@ -14,9 +14,9 @@ Free Bootstrap 5 HTML Template
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #ffb71c; /* mavi)*/ 
-  --secondary-color:              #d0006f; /* pembiş*/
-  --section-bg-color:             #f5f5f5; /*açık gri*/
+  --primary-color:                #43b02a; 
+  --secondary-color:              #d0006f; 
+  --section-bg-color:             #f5f5f5; 
   --dark-color:                   #000000;
   --p-color:                      #717275;
 
@@ -143,7 +143,7 @@ a:hover {
 
 .section-hero ::selection,
 .bg-warning ::selection {
-  background: ##FFB81C;
+  background: #43b02a;
 }
 
 .section-padding {
@@ -284,7 +284,7 @@ strong {
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover,
 .projects-detail-page .navbar-nav .nav-link.active:hover {
-  color: var(--secondary-color);
+  color: var(--magenta);
 }
 
 .projects-detail-page .navbar-nav .nav-link.active {
@@ -561,7 +561,7 @@ strong {
 .nav-tabs .nav-link.active h3,
 .nav-tabs .nav-link:focus h3, 
 .nav-tabs .nav-link:hover h3 {
-  color: var(--primary-color);
+  color: var(--gold);
 }
 
 
@@ -596,7 +596,7 @@ strong {
 
 .projects-thumb:hover .custom-btn,
 .projects-btn-wrap .custom-btn:hover {
-  background: var(--primary-color);
+  background: var(--green);
 }
 
 .projects-title-wrap {
@@ -610,7 +610,7 @@ strong {
 }
 
 .projects-small-title {
-  color: var(--primary-color);
+  color: var(--gold);
   text-transform: uppercase;
 }
 
@@ -670,7 +670,7 @@ strong {
   CONTACT              
 -----------------------------------------*/
 .contact-container-wrap {
-  background-color: var(--primary-color);
+  background-color: var(--bs-yellow);
   padding-bottom: 120px;
 }
 
@@ -722,7 +722,7 @@ strong {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background: var(--primary-color);
+  background: var(--gold);
   padding-top: 40px;
   padding-bottom: 40px;
 }
